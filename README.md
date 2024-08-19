@@ -1,3 +1,3 @@
-# Template++
+# LibConsole++
 
-This is a Visual Studio template for C++20 projects.
+Console library for C++ projects.

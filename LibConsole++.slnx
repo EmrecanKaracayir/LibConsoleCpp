@@ -27,6 +27,4 @@
   <Properties Name="Visual Studio">
     <Property Name="OpenWith" Value="17" />
   </Properties>
-  <Project Path="D:\Projects\LibConsole++\modules\LibFoundation++\projects\LibFoundation++\LibFoundation++.vcxproj" />
-  <Project Path="D:\Projects\LibConsole++\projects\LibConsole++\LibConsole++.vcxproj" />
 </Solution>
