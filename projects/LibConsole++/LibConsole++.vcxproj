@@ -18,6 +18,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="source\Console\Application.hpp">
+      <SubType>
+      </SubType>
+    </ClInclude>
     <ClInclude Include="source\Console\test.hpp">
       <SubType>
       </SubType>
